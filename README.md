@@ -1,5 +1,5 @@
 # Fazal-Shaikh-Website
 
-## Hosted at https://fazalshaikh.me/
+## Hosted at https://fazal.tech/
 
 ## 
